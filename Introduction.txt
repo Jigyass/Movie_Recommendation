@@ -1,0 +1,1 @@
+These are the datasets and code for the recommendation system. Fair warning,it might not work on your system but it most definitely works on colab.google. So, I will have the link for that here too.
